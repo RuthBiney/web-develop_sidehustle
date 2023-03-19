@@ -1,0 +1,39 @@
+body {
+    background-color:rgb(248, 248, 241);
+    font-family:sans-serif;
+}
+
+h1{
+    color:rgb(116, 116, 75);
+    text-align: center;
+}
+
+input{
+    margin-bottom: 10px;
+    margin-left: 9px;
+
+}
+
+#male{
+    margin-bottom: 18px;
+    margin-left: 9px;
+}
+
+#female{
+    margin-bottom: 18px;
+    margin-left: 9px;
+}
+
+label{
+   font-size: medium; 
+}
+
+#submit-colon{
+    background-color:rgb(141, 136, 129);
+    color:black;
+    font-size: medium;
+}
+
+#submit-colon:hover {
+opacity: 0.6;
+}
